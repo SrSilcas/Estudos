@@ -1,5 +1,5 @@
 /*
-This program is the problem in the question 10
+This program is the answer for the question 10
 
 This program change Feats to meters.
 */
