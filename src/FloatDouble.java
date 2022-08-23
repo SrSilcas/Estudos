@@ -4,7 +4,7 @@ This program show how the difference between int and double
 Call this program FlotDouble
  */
 public class FloatDouble {
-    public static void main (String args[]){
+    public static void main (String[]args){
         int var; //this instruction declare a variable int
         double x; //this instruction declare another variable but now is a floating dot
 

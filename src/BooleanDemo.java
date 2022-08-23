@@ -3,7 +3,7 @@
 public class BooleanDemo {
 
     //main
-    public static void main(String args[]){
+    public static void main(String[]args){
 
         //variables
         boolean b;

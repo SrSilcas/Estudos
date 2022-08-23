@@ -5,7 +5,7 @@
 
 public class Example {
     //One program java starts wif main class
-   public static void main (String args []){
+   public static void main (String[]args){
         System.out.println("Hello World");
     }
 }

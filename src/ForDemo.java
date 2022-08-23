@@ -5,7 +5,7 @@ Call this archive ForDemo.java
  */
 public class ForDemo {
 
-    public static void main (String args[]){
+    public static void main (String[]args){
 
     //Variables
         int count;

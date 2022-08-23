@@ -6,7 +6,7 @@ Call this archive GalToLitTable.java
 public class GalToLitTable {
 
     //main
-    public static void main (String args[]){
+    public static void main (String[]args){
 
         //variables
         double gallons, litters;

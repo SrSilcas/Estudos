@@ -4,7 +4,7 @@ public class IfDemo {
 
     call this archive IfDemo
      */
-    public static void main (String args []){
+    public static void main (String[]args){
 
         //Variables
         int a, b, c;

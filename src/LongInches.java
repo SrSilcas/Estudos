@@ -5,7 +5,7 @@ this program show how many cubic inches have in cubic mile
 * */
 public class LongInches {
 
-    public static void main (String args[]){
+    public static void main (String[]args){
 
         //variables
         long ci,im;

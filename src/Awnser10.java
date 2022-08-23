@@ -6,7 +6,7 @@ This program change Feats to meters.
 public class Awnser10 {
 
     //main
-    public static void main (String args[]){
+    public static void main (String[]args){
 
         //Variables
         double meters, feats;

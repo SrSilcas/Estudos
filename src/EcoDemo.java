@@ -7,7 +7,7 @@ Call this archive Sound.java
 public class EcoDemo {
 
         //main
-        public static void main(String args[]){
+        public static void main(String[]args){
 
             //variables
             double secEco, meters, distance;

@@ -6,7 +6,7 @@ Call this archive BlocoDemo.java
 public class BlocoDemo {
 
     //main Instruction
-    public static void main (String args []){
+    public static void main (String[]args){
 
     //Variables
     double i, j, d;

@@ -6,7 +6,7 @@ hypotenuse length
 public class Hypot {
 
     //main
-    public static void main(String args[]){
+    public static void main(String[]args){
 
         //variables
         double x, y, z;

@@ -4,7 +4,7 @@
         Put in this archive the name Variaveis
      */
 public class Variaveis {
-    public static void main (String args[]){
+    public static void main (String[]args){
 
         int var1; //this instruction declare one variable
         int var2; //this instruction declare another variable
