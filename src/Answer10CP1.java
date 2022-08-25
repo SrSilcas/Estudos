@@ -3,7 +3,7 @@ This program is the answer for the question 10
 
 This program change Feats to meters.
 */
-public class Awnser10 {
+public class Answer10CP1 {
 
     //main
     public static void main (String[]args){

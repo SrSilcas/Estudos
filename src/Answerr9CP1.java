@@ -1,6 +1,6 @@
 //This program is the answer for the question 9
 
-public class Awnser9 {
+public class Answerr9CP1 {
 
     public static void main (String[]args){
 

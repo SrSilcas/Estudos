@@ -8,4 +8,4 @@ Quarto dia, começo do capítulo 2 até o desafio do eco.
 Quinto dia em primeiro lugar foram ajeitados todos os metodos "main", ainda no quinto dia foi
 adicionado curto-circuito e conversões compatíveis e incompatíveis de variáveis.
 Sexto dia ainda no capítulo dois, tivemos precedência de operadores um exercício de tabela
-verdade e conversões de tipos em expressões.
+verdade e conversões de tipos em expressões, ainda no sexto dia foi feito o exercício do capítulo 2.
