@@ -9,3 +9,5 @@ Quinto dia em primeiro lugar foram ajeitados todos os metodos "main", ainda no q
 adicionado curto-circuito e conversões compatíveis e incompatíveis de variáveis.
 Sexto dia ainda no capítulo dois, tivemos precedência de operadores um exercício de tabela
 verdade e conversões de tipos em expressões, ainda no sexto dia foi feito o exercício do capítulo 2.
+Sétimo dia começo do capítulo 3 e a criação do PacoteDeCriação, para tentar criar programas,
+que eu imagine, sem ajuda do livro.
