@@ -11,3 +11,6 @@ Sexto dia ainda no capítulo dois, tivemos precedência de operadores um exercí
 verdade e conversões de tipos em expressões, ainda no sexto dia foi feito o exercício do capítulo 2.
 Sétimo dia começo do capítulo 3 e a criação do PacoteDeCriação, para tentar criar programas,
 que eu imagine, sem ajuda do livro.
+Oitavo dia, em primeiro lugar foi divido todo o src para pacotes com os nomes de cada capítulo,
+além disso, na parte da manhã foram colocados mais exemplos do capítulo 3 e uma criação nova no 
+PacoteDeCriação.
