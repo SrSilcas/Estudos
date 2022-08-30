@@ -14,3 +14,5 @@ que eu imagine, sem ajuda do livro.
 Oitavo dia, em primeiro lugar foi divido todo o src para pacotes com os nomes de cada capítulo,
 além disso, na parte da manhã foram colocados mais exemplos do capítulo 3 e uma criação nova no 
 PacoteDeCriação.
+Nono dia continuação do capítulo 3, e o problema com o programa JogoAdvinhação da pasta PacoteDeCriação
+ainda persiste.
