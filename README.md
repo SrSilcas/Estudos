@@ -19,3 +19,4 @@ ainda persiste.
 Décimo dia recomeço ainda no capítulo 3, foram feitos while do-while e o JogoAdivinhação foi corrigido o
 erro.
 Décimo primeiro dia, terminando o capítulo 3 faltando apenas os exercícios finais.
+Décimo segundo dia feito apenas os exercícios do capítulo 3.
