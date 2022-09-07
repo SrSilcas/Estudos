@@ -16,4 +16,6 @@ além disso, na parte da manhã foram colocados mais exemplos do capítulo 3 e u
 PacoteDeCriação.
 Nono dia continuação do capítulo 3, e o problema com o programa JogoAdivinhação da pasta PacoteDeCriação
 ainda persiste.
-Décimo dia recomeço ainda no capítulo 3, foram feitos while do-while e o JogoAdivinhação foi corrigido o erro.
+Décimo dia recomeço ainda no capítulo 3, foram feitos while do-while e o JogoAdivinhação foi corrigido o
+erro.
+Décimo primeiro dia, terminando o capítulo 3 faltando apenas os exercícios finais.
