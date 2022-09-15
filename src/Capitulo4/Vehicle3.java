@@ -5,18 +5,9 @@ public class Vehicle3 {
     public static void main(String[]args){
 
      int dist = 252;
-
-     Vehicle caminhao = new Vehicle();
-     Vehicle moto = new Vehicle();
-
-     moto.passengers = 2;
-     moto.fuelcap = 5;
-     moto.mpg = 35;
-
-     caminhao.passengers = 3;
-     caminhao.fuelcap = 45;
-     caminhao.mpg = 10;
-
+     //crate a new vehicle
+     Vehicle caminhao = new Vehicle(2, 5, 35);
+     Vehicle moto = new Vehicle(3, 45, 10);
      System.out.println("O caminhao precisa de " + caminhao.gasPreciso(dist) + " tanques de gasolina para percorrer " + dist + " milhas.");
      System.out.println("a moto precisa de " + moto.gasPreciso(dist) + " tanques de gasolina para percorrer " + dist + " milhas.");
     }

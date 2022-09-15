@@ -4,8 +4,13 @@ public class Vehicle {
 
     int passengers; //numero de passageiros que o veículo suporta.
     int fuelcap; //capacidade de gasolina que o carro comporta em galões.
-    int mpg; //quantidade de milhas percorridas com 1 galão de gasolina.
+    int mpg; //
 
+    Vehicle (int passengers, int fuelcap, int mpg){
+        this.passengers = passengers;
+        this.fuelcap = fuelcap;
+        this.mpg = mpg;
+    }
 
     //retorna a quantidade de milhas que o veículo consegue percorrer com um tanque cheio
     void range(){
